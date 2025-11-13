@@ -231,6 +231,7 @@ private fun ReplyNavigationRail(
     }
 }
 
+
 @Composable
 private fun ReplyBottomNavigationBar(
     currentTab: MailboxType,
